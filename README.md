@@ -2,4 +2,4 @@
 
 Please view project with redirect link below:
 
-Link to project: https://github.com/appteamcarolina/f22-academy-finalproject-davisatwell
+Link to project: https://github.com/appteamcarolina/f22-academy-mp03-musicui-davisatwell
